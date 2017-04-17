@@ -1,0 +1,3 @@
+[submodule "similar_words_demo"]
+	path = similar_words_demo
+	url = https://github.com/reyoung/similar_words_demo.git
